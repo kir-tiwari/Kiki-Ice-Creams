@@ -1,0 +1,4 @@
+This is a text and this is a static file
+
+This file is publicly available
+' DO NOT STORE PRIVATE DATA '
